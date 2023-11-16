@@ -7,4 +7,4 @@
 <div><br/>
 
 ### Meu gmail 
-[![Insta](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marinadelimafreire7@gmail.com)
+marinadelimafreire7@gmail.com
