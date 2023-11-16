@@ -9,7 +9,7 @@
 mail: marinadelimafreire7@gmail.com
 
 ### Mídias Sociais
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vlwmarina?igshid=OGQ5ZDc2ODk2ZA==)]
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vlwmarina?igshid=OGQ5ZDc2ODk2ZA==)
 
 
 
