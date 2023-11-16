@@ -1,4 +1,4 @@
-### Olá, me chamo Marina.
+### Olá, me chamo Marina.✌🏼
 #### Estou no 1° semestre do curso de Ciências da Computação - UFC, campus Russas. Fiz meu ensino médio em um colégio profissionalizante e me formei em 2022 na EEEP Avelino Magalhães no curso de Técnico em Informática. 
 
 ### Tecnologias que já utilizei:
