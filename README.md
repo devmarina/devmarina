@@ -13,24 +13,11 @@
 <div style="display: inline_block"> <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <div><br/>
 
-
-
-
-
-
-
-
-
-
-
-### Meu gmail
+### Contatos:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/devmarina)
-
-marinadelimafreire7@gmail.com
 
 ### Mídias Sociais
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vlwmarina?igshid=OGQ5ZDc2ODk2ZA==)
-
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devmarina)
 
 
